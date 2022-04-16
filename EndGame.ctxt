@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EndGame
+comment1.params=
+comment1.target=EndGame()
+comment2.params=bgColor\ textColor\ message
+comment2.target=EndGame(greenfoot.Color,\ greenfoot.Color,\ java.lang.String)
+comment3.params=bgColor\ textColor\ message
+comment3.target=void\ drawScreen(greenfoot.Color,\ greenfoot.Color,\ java.lang.String)
+numComments=4
